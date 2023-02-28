@@ -1,0 +1,36 @@
+E:\application dev\CW\TicketSystem\bin\Debug\TicketSystem.exe.config
+E:\application dev\CW\TicketSystem\bin\Debug\TicketSystem.exe
+E:\application dev\CW\TicketSystem\bin\Debug\TicketSystem.pdb
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.csproj.AssemblyReference.cache
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.Admin.resources
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.BillingTicket.resources
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.Login.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.Properties.Resources.resources
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.Report.resources
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.Staff.resources
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.TicketPriceDetails.resources
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.Visitor_Details.resources
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.WeeklyChart.resources
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.csproj.GenerateResource.cache
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.csproj.CoreCompileInputs.cache
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.exe
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.pdb
+E:\application dev\CW\TicketSystem\obj\Debug\Recreation_Center.SetTicketPrice.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\bin\Debug\TicketSystem.exe.config
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\bin\Debug\TicketSystem.exe
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\bin\Debug\TicketSystem.pdb
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.csproj.AssemblyReference.cache
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.Admin.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.BillingTicket.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.Login.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\TicketSystem.Properties.Resources.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.Report.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.SetTicketPrice.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.Staff.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.TicketPriceDetails.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.Visitor_Details.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.WeeklyChart.resources
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.csproj.GenerateResource.cache
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\Recreation_Center.csproj.CoreCompileInputs.cache
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\TicketSystem.exe
+E:\application dev\CW\Manzil Katwal 19031758\TicketSystem\obj\Debug\TicketSystem.pdb

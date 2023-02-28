@@ -1,0 +1,34 @@
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\bin\Debug\TicketSystem.exe.config
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\bin\Debug\TicketSystem.exe
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\bin\Debug\TicketSystem.pdb
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.csproj.AssemblyReference.cache
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.Properties.Resources.resources
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.csproj.GenerateResource.cache
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.csproj.CoreCompileInputs.cache
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.exe
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.pdb
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.Form1.resources
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.BillingTicket.resources
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.Report.resources
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.WeeklyChart.resources
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.TicketPriceDetails.resources
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.Visitor_Details.resources
+C:\Users\Anup-Xtha\Documents\C#\TicketSystem\obj\Debug\TicketSystem.Admin.resources
+E:\application dev\CW\TicketSystem\bin\Debug\TicketSystem.exe.config
+E:\application dev\CW\TicketSystem\bin\Debug\TicketSystem.exe
+E:\application dev\CW\TicketSystem\bin\Debug\TicketSystem.pdb
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.csproj.AssemblyReference.cache
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.Admin.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.BillingTicket.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.Properties.Resources.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.Report.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.Form1.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.TicketPriceDetails.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.Visitor_Details.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.WeeklyChart.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.csproj.GenerateResource.cache
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.csproj.CoreCompileInputs.cache
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.exe
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.pdb
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.Login.resources
+E:\application dev\CW\TicketSystem\obj\Debug\TicketSystem.Staff.resources
